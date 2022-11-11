@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="79E891FD-82E5-4877-BAAC-B1B5CD921FBC_1_201_a.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Classes Programacion</h3>
